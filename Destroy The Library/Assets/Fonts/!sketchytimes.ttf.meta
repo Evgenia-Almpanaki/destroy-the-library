@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: de613c18599dacd4e8d3547ad633c32c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - '!Sketchy Times'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e766b053f2e0ff842b9f6d3f4a7f5b9d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
